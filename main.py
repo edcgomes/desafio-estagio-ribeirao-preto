@@ -11,7 +11,7 @@ while k < indice:
 print(soma)
 
 #2)
-number = int(input("insert the number you want to know if it's fibonacci: "))
+number = int(input("insira o numero que deseja saber se pertence a sequencia fibonacci: "))
 
 a = 0
 b = 1
